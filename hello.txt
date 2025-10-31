@@ -1,2 +1,2 @@
 Heool, World!
-Hello, auto
+Hello, 
